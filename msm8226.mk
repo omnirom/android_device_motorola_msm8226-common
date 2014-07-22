@@ -170,4 +170,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.vendor.extension_library=/system/vendor/lib/libqc-opt.so
 
+# Other apps
+PRODUCT_PACKAGES += \
+    OmniTorch
+
 $(call inherit-product, device/motorola/qcom-common/qcom-common.mk)
