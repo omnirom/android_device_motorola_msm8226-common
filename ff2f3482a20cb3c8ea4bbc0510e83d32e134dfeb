@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4b713d8b_ded97284",
+        "filename": "msm8226.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2014-07-27T16:35:00Z",
+      "side": 1,
+      "message": "Copying this to two different places seems to be a bad idea.  I THINK the vendor one is used anyway and takes precedence if present.\n\nThe rest of the patch looks good, I\u0027ll try to test later today.",
+      "revId": "ff2f3482a20cb3c8ea4bbc0510e83d32e134dfeb",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
