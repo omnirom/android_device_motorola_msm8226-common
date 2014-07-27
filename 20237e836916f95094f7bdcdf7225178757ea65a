@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4b713d8b_3e46e627",
+        "filename": "msm8226.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2014-07-27T17:10:03Z",
+      "side": 1,
+      "message": "This does not need to be here if it\u0027s in qcom-common",
+      "revId": "20237e836916f95094f7bdcdf7225178757ea65a",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
