@@ -16,6 +16,24 @@
       "revId": "ff2f3482a20cb3c8ea4bbc0510e83d32e134dfeb",
       "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4b713d8b_de5fb2e5",
+        "filename": "msm8226.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 1000313
+      },
+      "writtenOn": "2014-07-27T17:14:54Z",
+      "side": 1,
+      "message": "audioservice always call system/etc/audio_effects.conf, this why we have DSPmanager Fcs, because audio_effect.conf was replace by default one (not in device config, but in framework like in my old commit)\n\nhttps://gerrit.omnirom.org/#/c/8019/",
+      "parentUuid": "4b713d8b_ded97284",
+      "revId": "ff2f3482a20cb3c8ea4bbc0510e83d32e134dfeb",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
     }
   ]
 }
