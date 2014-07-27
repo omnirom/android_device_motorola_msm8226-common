@@ -16,6 +16,24 @@
       "revId": "20237e836916f95094f7bdcdf7225178757ea65a",
       "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4b713d8b_1e5a0af6",
+        "filename": "msm8226.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 1000313
+      },
+      "writtenOn": "2014-07-27T17:16:16Z",
+      "side": 1,
+      "message": "ok, but how about overlay? the config is different",
+      "parentUuid": "4b713d8b_3e46e627",
+      "revId": "20237e836916f95094f7bdcdf7225178757ea65a",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
     }
   ]
 }
